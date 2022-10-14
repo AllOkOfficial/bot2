@@ -7,20 +7,16 @@ import "github.com/PaulSonOfLars/gotgbot/v2"
 var TEXT map[string]string = map[string]string{
 
 	"START": `
-<b>Hɪ %v, Nɪᴄᴇ ᴛᴏ ᴍᴇᴇᴛ ʏᴏᴜ !
-I'ᴍ %v ᴀ ᴘʀᴇ - ғᴜɴᴄᴛɪᴏɴᴇᴅ Aᴡᴇsᴏᴍᴇ ғɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ɢʟᴏʙᴀʟ ғɪʟᴛᴇʀ sᴜᴘᴘᴏʀᴛ.
-I'ᴍ %v ᴀ ᴘʀᴇ - ғᴜɴᴄᴛɪᴏɴᴇᴅ Aᴡᴇsᴏᴍᴇ ғɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ɢʟᴏʙᴀʟ ғɪʟᴛᴇʀ sᴜᴘᴘᴏʀᴛ.
-
-<i>ɪᴛs ᴇᴀsʏ ᴛᴏ ᴜsᴇ ᴍᴇ; ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀs ᴀᴅᴍɪɴ.<\i></b>
+<b>Hᴇʏ %v ɪᴍ %v ᴀɴ Aᴡᴇsᴏᴍᴇ Filter bot with global filter support</b>
+<i>I can save a custom reply for a word in any chat. Check my help menu for more details.</i>
 	`,
 	"ABOUT": `
-<b>Cɾҽα𝜏σɾ</b> : <a href='https://t.me/r2spr'>𝗥𝟮𝘀𝗽𝗿</a>
 <b>Լαɳցᥙαցҽ</b> : <a href='https://go.dev'>𝗚𝗢</a>
-<b>Ƒɾα𝓶ҽɯσƙ</b> : <a>𝗚𝗼𝘁𝗴𝗯𝗼𝘁</a>
-<b>Sҽɾʋҽɾ</b> : <a>𝗖𝗹𝗼𝘂𝗱 𝗟𝗶𝗻𝗼𝗱𝗲</a>
+<b>Ƒɾα𝓶ҽɯσƙ</b> : <a href='github.com/PaulSonOfLars/gotgbot'>𝗴𝗼𝘁𝗴𝗯𝗼𝘁</a>
+<b>Sҽɾʋҽɾ</b> : <a href='heroku.com'>𝗛𝗲𝗿𝗼𝗸𝘂</a>
 <b>Ɗα𝜏αẞαടҽ</b> : <a href='mongodb.org'>𝗠𝗼𝗻𝗴𝗼𝗗𝗕</a>
-<b>Sᥙρρσɾ𝜏</b> : <a href='https://t.me/HombaleCinemasChat'>𝗛𝗲𝗿𝗲</a>
-<b>𝓤ρԃα𝜏ҽട</b> : <a href='https://t.me/HombaleCinemas'>𝗝𝗼𝗶𝗻</a>
+<b>Ɗҽʋҽɬσρҽɾ</b> : <a href='t.me/jisin0'>𝗝𝗶𝘀𝗶𝗻𝟬</a>
+<b>Sᥙρρσɾ𝜏</b> : <a href='t.me/jisin_hub'>𝗛𝗲𝗿𝗲</a>
 	`,
 
 	"MF": `
