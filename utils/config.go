@@ -7,9 +7,9 @@ import "github.com/PaulSonOfLars/gotgbot/v2"
 var TEXT map[string]string = map[string]string{
 
 	"START": `
-<b>Hɪ %v I'ᴍ %v ᴀ ᴘʀᴇ - ғᴜɴᴄᴛɪᴏɴᴇᴅ ғɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ɢʟᴏʙᴀʟ ғɪʟᴛᴇʀ sᴜᴘᴘᴏʀᴛ<\b>
+<b>Hᴇʏ %v ɪᴍ %v ᴀɴ Aᴡᴇsᴏᴍᴇ Filter bot with global filter support</b>
 
-<i>ɪᴛs ᴇᴀsʏ ᴛᴏ ᴜsᴇ ᴍᴇ; ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀs ᴀᴅᴍɪɴ.<\i>
+<i>I can save a custom reply for a word in any chat. Check my help menu for more details.</i>
 	`,
 	"ABOUT": `
 <b>Cɾҽα𝜏σɾ</b> : <a href='https://t.me/r2spr'>𝗥𝟮𝘀𝗽𝗿</a>
