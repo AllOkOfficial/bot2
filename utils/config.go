@@ -7,17 +7,18 @@ import "github.com/PaulSonOfLars/gotgbot/v2"
 var TEXT map[string]string = map[string]string{
 
 	"START": `
-<b>Hᴇʏ %v ɪᴍ %v ᴀɴ Aᴡᴇsᴏᴍᴇ Filter bot with global filter support</b>
+<b>Hɪ %v, Sᴏ ɴɪᴄᴇ ᴛᴏ ᴍᴇᴇᴛ ʏᴏᴜ !\nI'ᴍ %v ᴀ ᴘʀᴇ - ғᴜɴᴄᴛɪᴏɴᴇᴅ Aᴡᴇsᴏᴍᴇ ғɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ɢʟᴏʙᴀʟ ғɪʟᴛᴇʀ sᴜᴘᴘᴏʀᴛ.\nI'ᴍ %v ᴀ ᴘʀᴇ - ғᴜɴᴄᴛɪᴏɴᴇᴅ Aᴡᴇsᴏᴍᴇ ғɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ɢʟᴏʙᴀʟ ғɪʟᴛᴇʀ sᴜᴘᴘᴏʀᴛ.\n\n<i>ɪᴛs ᴇᴀsʏ ᴛᴏ ᴜsᴇ ᴍᴇ; ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀs ᴀᴅᴍɪɴ<\i></b>
 
-<i>I can save a custom reply for a word in any chat. Check my help menu for more details.</i>
+<i>I can save a custom reply for a word in any chat. Hit \help menu for more details.</i>
 	`,
 	"ABOUT": `
-<b>Լαɳցᥙαցҽ</b> : <a href='https://go.dev'>𝗚𝗢</a>
-<b>Ƒɾα𝓶ҽɯσƙ</b> : <a href='github.com/PaulSonOfLars/gotgbot'>𝗴𝗼𝘁𝗴𝗯𝗼𝘁</a>
-<b>Sҽɾʋҽɾ</b> : <a href='heroku.com'>𝗛𝗲𝗿𝗼𝗸𝘂</a>
-<b>Ɗα𝜏αẞαടҽ</b> : <a href='mongodb.org'>𝗠𝗼𝗻𝗴𝗼𝗗𝗕</a>
-<b>Ɗҽʋҽɬσρҽɾ</b> : <a href='t.me/jisin0'>𝗝𝗶𝘀𝗶𝗻𝟬</a>
-<b>Sᥙρρσɾ𝜏</b> : <a href='t.me/jisin_hub'>𝗛𝗲𝗿𝗲</a>
+<b>Cɾҽα𝜏σɾ</b> : <a href='https://t.me/r2spr'>𝗥𝟮𝘀𝗽𝗿</a>
+<b>Լαɳցᥙαցҽ</b> : <a>𝗚𝗢</a>
+<b>Ƒɾα𝓶ҽɯσƙ</b> : <a>𝗚𝗼𝘁𝗴𝗯𝗼𝘁</a>
+<b>Sҽɾʋҽɾ</b> : <a>𝗖𝗹𝗼𝘂𝗱 𝗟𝗶𝗻𝗼𝗱𝗲</a>
+<b>Ɗα𝜏αẞαടҽ</b> : <a href=''>𝗠𝗼𝗻𝗴𝗼𝗗𝗕</a>
+<b>Sᥙρρσɾ𝜏</b> : <a href='https://t.me/HombaleCinemasChat'>𝗛𝗲𝗿𝗲</a>
+<b>𝓤ρԃα𝜏ҽട</b> : <a href='https://t.me/HombaleCinemas'>𝗝𝗼𝗶𝗻</a>
 	`,
 
 	"MF": `
@@ -81,7 +82,7 @@ var BUTTONS map[string][][]gotgbot.InlineKeyboardButton = map[string][][]gotgbot
 		{
 			{Text: "☂ Aʙᴏᴜᴛ ☂", CallbackData: "edit(ABOUT)"},
 			{Text: "🧭 Help 🧭", CallbackData: "edit(HELP)"},
-			{Text: "🫂 Sᴜᴘᴘᴏʀᴛ 🫂", Url: "t.me/Jisin_0"},
+			{Text: "🫂 Sᴜᴘᴘᴏʀᴛ 🫂", Url: "t.me/r2spr"},
 		},
 	},
 	"ABOUT": {
