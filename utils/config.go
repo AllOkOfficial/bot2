@@ -7,16 +7,18 @@ import "github.com/PaulSonOfLars/gotgbot/v2"
 var TEXT map[string]string = map[string]string{
 
 	"START": `
-<b>Hɪ %v, Sᴏ ɴɪᴄᴇ ᴛᴏ ᴍᴇᴇᴛ ʏᴏᴜ !\nI'ᴍ %v ᴀ ᴘʀᴇ - ғᴜɴᴄᴛɪᴏɴᴇᴅ Aᴡᴇsᴏᴍᴇ ғɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ɢʟᴏʙᴀʟ ғɪʟᴛᴇʀ sᴜᴘᴘᴏʀᴛ.\nI'ᴍ %v ᴀ ᴘʀᴇ - ғᴜɴᴄᴛɪᴏɴᴇᴅ Aᴡᴇsᴏᴍᴇ ғɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ɢʟᴏʙᴀʟ ғɪʟᴛᴇʀ sᴜᴘᴘᴏʀᴛ.\n\n<i>ɪᴛs ᴇᴀsʏ ᴛᴏ ᴜsᴇ ᴍᴇ; ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀs ᴀᴅᴍɪɴ<\i></b>
+<b>Hɪ %v, Sᴏ ɴɪᴄᴇ ᴛᴏ ᴍᴇᴇᴛ ʏᴏᴜ !
+I'ᴍ %v ᴀ ᴘʀᴇ - ғᴜɴᴄᴛɪᴏɴᴇᴅ Aᴡᴇsᴏᴍᴇ ғɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ɢʟᴏʙᴀʟ ғɪʟᴛᴇʀ sᴜᴘᴘᴏʀᴛ.
+I'ᴍ %v ᴀ ᴘʀᴇ - ғᴜɴᴄᴛɪᴏɴᴇᴅ Aᴡᴇsᴏᴍᴇ ғɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ɢʟᴏʙᴀʟ ғɪʟᴛᴇʀ sᴜᴘᴘᴏʀᴛ.
 
-<i>I can save a custom reply for a word in any chat. Hit \help menu for more details.</i>
+<i>ɪᴛs ᴇᴀsʏ ᴛᴏ ᴜsᴇ ᴍᴇ; ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀs ᴀᴅᴍɪɴ.<\i></b>
 	`,
 	"ABOUT": `
 <b>Cɾҽα𝜏σɾ</b> : <a href='https://t.me/r2spr'>𝗥𝟮𝘀𝗽𝗿</a>
-<b>Լαɳցᥙαցҽ</b> : <a>𝗚𝗢</a>
+<b>Լαɳցᥙαցҽ</b> : <a href='https://go.dev'>𝗚𝗢</a>
 <b>Ƒɾα𝓶ҽɯσƙ</b> : <a>𝗚𝗼𝘁𝗴𝗯𝗼𝘁</a>
 <b>Sҽɾʋҽɾ</b> : <a>𝗖𝗹𝗼𝘂𝗱 𝗟𝗶𝗻𝗼𝗱𝗲</a>
-<b>Ɗα𝜏αẞαടҽ</b> : <a href=''>𝗠𝗼𝗻𝗴𝗼𝗗𝗕</a>
+<b>Ɗα𝜏αẞαടҽ</b> : <a href='mongodb.org'>𝗠𝗼𝗻𝗴𝗼𝗗𝗕</a>
 <b>Sᥙρρσɾ𝜏</b> : <a href='https://t.me/HombaleCinemasChat'>𝗛𝗲𝗿𝗲</a>
 <b>𝓤ρԃα𝜏ҽട</b> : <a href='https://t.me/HombaleCinemas'>𝗝𝗼𝗶𝗻</a>
 	`,
