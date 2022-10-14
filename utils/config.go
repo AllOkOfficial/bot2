@@ -7,7 +7,7 @@ import "github.com/PaulSonOfLars/gotgbot/v2"
 var TEXT map[string]string = map[string]string{
 
 	"START": `
-<b>Hɪ %v , Sᴏ ɴɪᴄᴇ ᴛᴏ ᴍᴇᴇᴛ ʏᴏᴜ ! I'ᴍ %v ᴀ ᴘʀᴇ - ғᴜɴᴄᴛɪᴏɴᴇᴅ Aᴡᴇsᴏᴍᴇ ғɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ɢʟᴏʙᴀʟ ғɪʟᴛᴇʀ sᴜᴘᴘᴏʀᴛ.<\b>
+<b>Hɪ %v I'ᴍ %v ᴀ ᴘʀᴇ - ғᴜɴᴄᴛɪᴏɴᴇᴅ ғɪʟᴛᴇʀ ʙᴏᴛ ᴡɪᴛʜ ɢʟᴏʙᴀʟ ғɪʟᴛᴇʀ sᴜᴘᴘᴏʀᴛ<\b>
 
 <i>ɪᴛs ᴇᴀsʏ ᴛᴏ ᴜsᴇ ᴍᴇ; ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀs ᴀᴅᴍɪɴ.<\i>
 	`,
