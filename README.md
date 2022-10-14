@@ -31,7 +31,7 @@
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/AllOkOfficial/Bot/tree/main">
+<a href="https://heroku.com/deploy?template=https://github.com/AllOkOfficial/bot2/tree/main">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
